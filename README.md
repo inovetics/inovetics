@@ -1,3 +1,5 @@
+<p align="center"><a href="https://inovetics.com"><img src="assets/banner.png" alt="Inovetics: Your Business. Reimagined with AI. AI consulting and implementation" width="100%"></a></p>
+
 # Inovetics: AI consulting & implementation
 
 **Your Business. Reimagined with AI.**
